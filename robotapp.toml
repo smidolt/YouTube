@@ -16,7 +16,7 @@ dockerfile = "Dockerfile"
 key = "streaming_key"
 label = "YoutTube streaming key"
 field = "text"
-initial_value = ""
+initial_value = "tt53-k68v-rjdj-m5qw-0m8t"
 prefix = ""
 
 [[configuration]]
